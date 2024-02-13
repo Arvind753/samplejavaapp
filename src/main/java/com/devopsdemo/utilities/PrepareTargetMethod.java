@@ -4,7 +4,7 @@ public class PrepareTargetMethod {
 
 	private static final String METHOD_GET_PREFIX = "get";
 	 /**
-	 * preparing target name of getter method for given sort field
+	 * preparing target name of getter method for given sort fields
 	 *
 	 * @param name a {@link java.lang.String}
 	 * @return methodName a {@link java.lang.String}
