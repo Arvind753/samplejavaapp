@@ -7,7 +7,7 @@ import java.util.Properties;
 
 /**
  * Helper Class to load Properties from a property file to be passed to caller for execution. 
- * Multiple properties can be loaded bombs. 
+ * Multiple properties can be loaded. 
  * Note that if same property is specified multiple times in a single file, there is no guaranteed "Winner" 
  * Also note in the case of loading multiple files and duplicate definition of properties across files, 
  * the last loaded property file "wins". 
