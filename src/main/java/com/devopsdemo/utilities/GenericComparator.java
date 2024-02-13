@@ -8,7 +8,7 @@ import java.util.Date;
 /*****
 * Sorting - Generic Comparator and
 *
-* @author Seshagiri Srirami
+* @author Seshagiri Sriramis
 * @version 1.0 
 * @since Janauary 12, 2015
 * only belive all things are possible
