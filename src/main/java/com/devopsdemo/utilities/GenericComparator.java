@@ -13,7 +13,7 @@ import java.util.Date;
 * @since Janauary 12, 2015
 * only belive all things are possible
 * This is an adaptation of a genenic comparator found on github linked from myjeeva.com 
-* Many thanks for the code! off course
+* Many thanks for the code! off course and not
 */
 
 @SuppressWarnings("rawtypes")
