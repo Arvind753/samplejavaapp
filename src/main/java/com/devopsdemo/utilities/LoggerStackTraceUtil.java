@@ -12,7 +12,7 @@ public class LoggerStackTraceUtil {
 	/***
 	 * @param th - The exception that was thrown and to be logged. 
 	 * @return at very least the 1st error, if stacktrace is more than 1, then it also 
-	 *         returns the immediate causes
+	 *         returns the immediate causesd
 	 *
 	 * Note this function cannot be made static for thread safety..         
 	 */
